@@ -1,5 +1,17 @@
 <resources>
-    <string name="app_name">VishalCovidTracker</string>
-    <string name="last_updated_time">Last Updated Time</string>
-    <string name="application_title">Application Title</string>
+    <string name="app_name">VISHAL COVID TRACKER</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="active">Active</string>
+    <string name="recovered">Recovered</string>
+    <string name="deaths">Deaths</string>
+    <string name="default_notification_channel_id">default</string>
+    <string name="text_confirmed_cases">Confirmed Cases : %s</string>
+    <string name="text_last_updated">Last Updated : %s</string>
+    <string name="default_notification_channel_name">Covid-19 India</string>
+    <string name="cnfmd">Confirmed</string>
+    <string name="state_ut">STATE/UT</string>
+    <string name="rcvrd">Recovered</string>
+    <string name="dcsd">Death</string>
+    <string name="india_covid_19_ntracker">Vishal covid-19 \nTracker</string>
+    <string name="last_updated">Last Updated</string>
 </resources>
